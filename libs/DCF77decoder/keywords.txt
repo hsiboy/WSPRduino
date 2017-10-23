@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For DCF77decoder
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+DCF77decoder	KEYWORD1
+DCF77	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+init	KEYWORD2
+setLocalTimezone	KEYWORD2
+getLastSync	KEYWORD2
+getSyncLoops	KEYWORD2
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
